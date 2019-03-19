@@ -1,0 +1,3 @@
+Bundle-Name: resource-permission-model-listener
+Bundle-SymbolicName: com.liferay.kris.model.listener.resourcepermission
+Bundle-Version: 1.0.0

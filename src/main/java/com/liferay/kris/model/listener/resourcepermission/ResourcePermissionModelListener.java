@@ -49,7 +49,7 @@ public class ResourcePermissionModelListener extends BaseModelListener<ResourceP
 			/*
 			Log you changed permissions on JournalArticle programatically
 			 */
-			_log.info("JournalArticle permissions changed by Model Listner - ResourcePermissionId ="  + model.getResourcePermissionId());
+			_log.info("JournalArticle permissions changed by Model Listener - ResourcePermissionId = "  + model.getResourcePermissionId());
 			
 		}
 	
